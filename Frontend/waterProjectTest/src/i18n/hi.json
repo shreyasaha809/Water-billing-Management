@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "dashboard": "डैशबोर्ड", "households": "परिवार", "waterBilling": "जल उपयोग और बिलिंग",
+    "billingCycles": "बिलिंग चक्र", "invoices": "चालान", "tariffPlans": "शुल्क योजनाएं",
+    "waterPurchase": "जल खरीद", "distribution": "लागत वितरण", "alerts": "अलर्ट",
+    "support": "सहायता", "announcements": "घोषणाएं", "deletedHouseholds": "हटाए गए परिवार",
+    "reports": "रिपोर्ट", "profile": "प्रोफ़ाइल", "logout": "लॉग आउट",
+    "myUsage": "मेरा उपयोग", "usageHistory": "उपयोग इतिहास", "myBills": "मेरे बिल",
+    "notifications": "सूचनाएं", "waterTips": "जल सुझाव"
+  },
+  "common": {
+    "save": "बदलाव सहेजें", "cancel": "रद्द करें", "delete": "हटाएं", "edit": "संपादित करें",
+    "submit": "जमा करें", "loading": "लोड हो रहा है...", "search": "खोजें", "view": "देखें",
+    "close": "बंद करें", "confirm": "पुष्टि करें", "back": "वापस"
+  },
+  "bills": {
+    "billNumber": "बिल संख्या", "billingCycle": "बिलिंग चक्र", "amount": "राशि",
+    "status": "स्थिति", "dueDate": "देय तिथि", "generatedDate": "जनरेट किया गया",
+    "payNow": "अभी भुगतान करें", "viewInvoice": "चालान देखें",
+    "overdueWarning": "आपके {{count}} बिल बकाया हैं। अतिरिक्त विलंब शुल्क से बचने के लिए कृपया जल्द से जल्द भुगतान करें।"
+  },
+  "validation": {
+    "required": "यह फ़ील्ड आवश्यक है", "invalidEmail": "कृपया एक वैध ईमेल पता दर्ज करें",
+    "passwordMismatch": "नया पासवर्ड और पुष्टि पासवर्ड मेल नहीं खाते"
+  }
+}

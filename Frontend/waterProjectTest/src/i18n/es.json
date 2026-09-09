@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "dashboard": "Panel", "households": "Hogares", "waterBilling": "Uso de Agua y Facturación",
+    "billingCycles": "Ciclos de Facturación", "invoices": "Facturas", "tariffPlans": "Planes Tarifarios",
+    "waterPurchase": "Compra de Agua", "distribution": "Distribución de Costos", "alerts": "Alertas",
+    "support": "Soporte", "announcements": "Anuncios", "deletedHouseholds": "Hogares Eliminados",
+    "reports": "Informes", "profile": "Perfil", "logout": "Cerrar Sesión",
+    "myUsage": "Mi Uso", "usageHistory": "Historial de Uso", "myBills": "Mis Facturas",
+    "notifications": "Notificaciones", "waterTips": "Consejos de Agua"
+  },
+  "common": {
+    "save": "Guardar Cambios", "cancel": "Cancelar", "delete": "Eliminar", "edit": "Editar",
+    "submit": "Enviar", "loading": "Cargando...", "search": "Buscar", "view": "Ver",
+    "close": "Cerrar", "confirm": "Confirmar", "back": "Atrás"
+  },
+  "bills": {
+    "billNumber": "Número de Factura", "billingCycle": "Ciclo de Facturación", "amount": "Monto",
+    "status": "Estado", "dueDate": "Fecha de Vencimiento", "generatedDate": "Generado",
+    "payNow": "Pagar Ahora", "viewInvoice": "Ver Factura",
+    "overdueWarning": "Tiene {{count}} factura(s) vencida(s). Pague lo antes posible para evitar cargos adicionales por mora."
+  },
+  "validation": {
+    "required": "Este campo es obligatorio", "invalidEmail": "Ingrese un correo electrónico válido",
+    "passwordMismatch": "La nueva contraseña y la confirmación no coinciden"
+  }
+}

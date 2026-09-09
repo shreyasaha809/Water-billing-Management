@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "households": "Households",
+    "waterBilling": "Water Usage & Billing",
+    "billingCycles": "Billing Cycles",
+    "invoices": "Invoices",
+    "tariffPlans": "Tariff Plans",
+    "waterPurchase": "Water Purchase",
+    "distribution": "Cost Distribution",
+    "alerts": "Alerts",
+    "support": "Support",
+    "announcements": "Announcements",
+    "deletedHouseholds": "Deleted Households",
+    "reports": "Reports",
+    "profile": "Profile",
+    "logout": "Logout",
+    "myUsage": "My Usage",
+    "usageHistory": "Usage History",
+    "myBills": "My Bills",
+    "notifications": "Notifications",
+    "waterTips": "Water Tips"
+  },
+  "common": {
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "search": "Search",
+    "view": "View",
+    "close": "Close",
+    "confirm": "Confirm",
+    "back": "Back"
+  },
+  "bills": {
+    "billNumber": "Bill Number",
+    "billingCycle": "Billing Cycle",
+    "amount": "Amount",
+    "status": "Status",
+    "dueDate": "Due Date",
+    "generatedDate": "Generated",
+    "payNow": "Pay Now",
+    "viewInvoice": "View Invoice",
+    "overdueWarning": "You have {{count}} overdue bill(s). Please pay as soon as possible to avoid additional late fees."
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "passwordMismatch": "New password and confirm password do not match"
+  }
+}
